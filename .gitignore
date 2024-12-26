@@ -1,0 +1,7 @@
+bin/*
+obj/*
+Logs/*.log
+Data.txt
+Sample*.txt
+!Data/Day00/Data.txt
+!Data/Day00/Sample.txt
